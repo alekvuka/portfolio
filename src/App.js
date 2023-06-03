@@ -30,7 +30,7 @@ const Home = () => {
           </ul>
         
         
-          <h5>Projects I helped create:</h5>
+          <h5>Projects I contributed to:</h5>
           <ul>
           <li>
           <Link to="/mywork">Avalanche Insights</Link>
