@@ -25,9 +25,6 @@ const Home = () => {
           <Link to="/mywork">Product Roadmaps</Link>
           </li>
           <li>
-          <Link to="/mywork">Technical Evaluations</Link>
-          </li>
-          <li>
           <Link to="/mywork">UI/UX </Link>
           </li>
           </ul>
@@ -61,20 +58,20 @@ const Home = () => {
           <h5>Favorie Books:</h5>
           <ul>
           <li>
-          <Link to="/mywork">Avalanche Insights</Link>
+          <Link to="/mywork">The Startup Owners Manual</Link>
           </li>
           <li>
-          <Link to="/mywork">Avalanche Insights</Link>
+          <Link to="/mywork">Testing Business Ideas</Link>
           </li>
           </ul>
 
-          <h5>About Me:</h5>
+          <h5>Socials:</h5>
           <ul>
           <li>
           <Link to="/mywork">LinkedIn</Link>
           </li>
           <li>
-          <Link to="/mywork">GitHun</Link>
+          <Link to="/mywork">GitHub</Link>
           </li>
           <li>
           <Link to="/mywork">Resume</Link>
