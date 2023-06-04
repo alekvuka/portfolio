@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import Home from '.pages/home';
-import Books from '.pages/books';
-import MyWork from '.pages/MyWork';
-import Projects from '.pages/Projects';
+import Home from './pages/Home';
+import Books from './pages/Books';
+import MyWork from './pages/MyWork';
+import Projects from './pages/Projects';
 
 
 
@@ -20,8 +20,7 @@ const App = () => {
         <Route path="/books" element={<Books />} />
       </Routes>
     </Router>
-
-    
-    
   );
 };
+
+export default App;

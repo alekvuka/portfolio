@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Nav from 'react-bootstrap/Nav'
 import Dropdown from 'react-bootstrap/Dropdown';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
 // Home component
@@ -82,3 +81,4 @@ const Home = () => {
 
   );}
 
+  export default Home;

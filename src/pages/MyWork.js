@@ -11,3 +11,5 @@ const MyWork = () => {
       </div>
     );
   };
+
+  export default MyWork;
