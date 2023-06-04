@@ -7,8 +7,8 @@ const Home = () => {
   return (
     <div>
       <Header />
-      <Container fluid>
-        <Image src="/space.jpeg" fluid />
+      <Container className="d-flex align-items-center justify-content-center" style={{ height: '100vh', paddingTop: '150px' }}> 
+            <Image src="/space.jpeg" fluid />
       </Container>
 
 
