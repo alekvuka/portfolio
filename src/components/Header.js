@@ -8,7 +8,7 @@ function Header() {
   return (
     <Navbar bg="light" variant="light" expand="lg" className="justify-content-center">
           <Nav bg="light" expand="lg" className="justify-content-center">
-            <Nav.Link href="">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="mywork">Examples of My Work</Nav.Link>
             <Nav.Link href="projects">Projects I Contribnuted To</Nav.Link>
             <Nav.Link href="books">My Favorite Books</Nav.Link>
