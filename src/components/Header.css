@@ -8,3 +8,10 @@
     background-color: rgb(156, 207, 224);
     color: black;
   }
+
+  .active {
+    /* Add your desired styles to highlight the active link */
+    
+    background-color: rgb(156, 207, 224);
+    color: black;
+  }
