@@ -15,7 +15,7 @@ const Books = () => {
          className="d-flex flex-column align-items-center justify-content-center"
          style={{ paddingTop: '15px' }}>
         <Card style={{ width: '18rem',  marginTop: '45px'  }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Img variant="top" src="/startup.png" />
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
             <Card.Text>
