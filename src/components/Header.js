@@ -14,7 +14,7 @@ function Header() {
             <Nav.Link as={NavLink} to="/mywork" activeClassName="active">Examples of My Work</Nav.Link>
             <Nav.Link as={NavLink} to="/projects" activeClassName="active">Projects I Contribnuted To</Nav.Link>
             <Nav.Link as={NavLink} to="/books" activeClassName="active">My Favorite Books</Nav.Link>
-            <Nav.Link href="contact">Contact</Nav.Link>
+            <Nav.Link as={NavLink} to="/contact" activeClassName="active">Contact</Nav.Link>
           </Nav>
     </Navbar>
   );
