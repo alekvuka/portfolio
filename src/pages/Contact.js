@@ -7,8 +7,10 @@ const Contact = () => {
   return (
     <div>
       <Header />
-      <Container className="d-flex align-items-center justify-content-center" style={{ height: '100vh', paddingTop: '150px' }}> 
-            <Image src="/space.jpeg" fluid />
+      <Container className="d-flex flex-column align-items-center justify-content-center" style={{ height: '25vh' }}> 
+        <a href={"mailto:${alekvuka@gmail.com}"} >alekvuka@gmail.com</a>
+        <a href="linkedin.com/u/alekvuka" target="_blank">LinkedIn</a>
+        <a href="github.com/alekvuka" target="_blank">GitHub</a> 
       </Container>
     </div>
   );}
