@@ -23,7 +23,7 @@ const MyWork = () => {
             
           >
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>Stories</Card.Title>
              
               <Card.Text>
                 Some quick example text to build on the card title and make up the
@@ -45,7 +45,7 @@ const MyWork = () => {
             className="custom-card"
           >
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>Epics</Card.Title>
            
               <Card.Text>
                 Some quick example text to build on the card title and make up the
@@ -67,7 +67,7 @@ const MyWork = () => {
               
 
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>Product Roadmaps</Card.Title>
            
               <Card.Text>
                 Some quick example text to build on the card title and make up the
